@@ -8,7 +8,7 @@ Welcome to my first React Todo App! This simple application allows you to save, 
 - **Delete Todo**: Remove any todo from the list if it's no longer needed.
 
 ## Demo
-You can check out the live demo of the app [here](https://myfirstreacttodoapp.netlify.app/).
+You can check out the live demo of the app [here](https://my-first-react-todo-app-onnetlify.netlify.app).
 
 ## Usage
 1. Clone this repository to your local machine.
