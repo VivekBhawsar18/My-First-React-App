@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '18.x'
 
+      - name: Set npm audit to false
+        run: npm set audit false
+
       - name: npm install, build, and test
         run: |
           npm install
@@ -62,4 +65,3 @@ jobs:
           app-name: 'My-First-React-App'
           slot-name: 'Production'
           package: .
-          
